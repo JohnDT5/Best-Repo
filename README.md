@@ -1,5 +1,4 @@
-**Dino Hunt
-**🦖 DinoHunt AR
+# Best-Repo* *🦖 DinoHunt AR
 "Catch ‘em all... before they catch you!"
 
 DinoHunt AR is an augmented reality mobile game where players explore the real world to discover, track, and capture ancient dinosaurs. Inspired by the spirit of Pokémon Go, but with a Jurassic twist — think T-Rex meets tech.
